@@ -1,0 +1,23 @@
+# Minion version 1.8
+# arguments used "-findallsols -noprintsols -varorder wdeg -preprocess SACBounds"
+# raw data is available here:
+# http://cs.swansea.ac.uk/~csirfansha/data_files/Experimental_results/CSP/minion/Data/dynamic_heuristics/
+# run on csverify
+N t nds sol
+1 0.000549 1 1
+2 0.000352 0 0
+3 0.000370 0 0
+4 0.000463 11 2
+5 0.000401 31 10
+6 0.000536 65 4
+7 0.000995 239 40
+8 0.002758 825 92
+9 0.009051 3457 352
+10 0.040975 14748 724
+11 0.201030 68220 2680
+12 1.001433 337834 14200
+13 5.624030 1796948 73712
+14 34.187466 10390911 365596
+15 226.842197 63708113 2279184
+16 1818.911941 420303537 14772512
+17 12456.609608 2992704202 95815104

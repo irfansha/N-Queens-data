@@ -1,0 +1,834 @@
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_001.cnf
+variables (all/used/free): 	1/1/0
+clauses (all/long/binary/unit): 1/0/0/1
+
+Preprocessing .. DONE
+variables (all/used/free): 	0/0/0
+clauses (all/long/binary/unit): 0/0/0/0
+Maximum cache size:	241077 MB
+
+
+
+variables (total / active / free)	0/0/0
+clauses (removed) 			1 (1)
+decisions 				0
+conflicts 				0
+conflict clauses (all/bin/unit) 	0/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			1/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	28/0
+
+
+# solutions 
+1
+# END
+
+time: 0.008667s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_002.cnf
+variables (all/used/free): 	4/4/0
+clauses (all/long/binary/unit): 10/0/10/0
+
+Preprocessing .. DONE
+
+ FOUND UNSAT DURING PREPROCESSING 
+
+
+variables (total / active / free)	4/4/0
+clauses (removed) 			10 (0)
+decisions 				0
+conflicts 				0
+conflict clauses (all/bin/unit) 	0/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 0MB	
+cache (stores / hits) 			0/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	-nan/0
+
+
+# solutions 
+0
+# END
+
+time: 0.000198s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_003.cnf
+variables (all/used/free): 	9/9/0
+clauses (all/long/binary/unit): 34/6/28/0
+
+Preprocessing .. DONE
+
+ FOUND UNSAT DURING PREPROCESSING 
+
+
+variables (total / active / free)	9/9/0
+clauses (removed) 			34 (0)
+decisions 				0
+conflicts 				0
+conflict clauses (all/bin/unit) 	0/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 0MB	
+cache (stores / hits) 			0/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	-nan/0
+
+
+# solutions 
+0
+# END
+
+time: 9.8e-05s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_004.cnf
+variables (all/used/free): 	16/16/0
+clauses (all/long/binary/unit): 84/8/76/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	8/8/0
+clauses (all/long/binary/unit): 44/0/44/0
+Maximum cache size:	241076 MB
+
+
+
+variables (total / active / free)	8/8/0
+clauses (removed) 			84 (40)
+decisions 				1
+conflicts 				0
+conflict clauses (all/bin/unit) 	0/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			2/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	24/0
+
+
+# solutions 
+2
+# END
+
+time: 0.003348s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_005.cnf
+variables (all/used/free): 	25/25/0
+clauses (all/long/binary/unit): 170/10/160/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	25/25/0
+clauses (all/long/binary/unit): 170/10/160/0
+Maximum cache size:	241076 MB
+
+
+
+variables (total / active / free)	25/25/0
+clauses (removed) 			170 (0)
+decisions 				15
+conflicts 				6
+conflict clauses (all/bin/unit) 	1/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			11/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	27.9091/0
+
+
+# solutions 
+10
+# END
+
+time: 0.003334s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_006.cnf
+variables (all/used/free): 	36/36/0
+clauses (all/long/binary/unit): 302/12/290/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	36/36/0
+clauses (all/long/binary/unit): 302/12/290/0
+Maximum cache size:	241075 MB
+
+
+
+variables (total / active / free)	36/36/0
+clauses (removed) 			302 (0)
+decisions 				43
+conflicts 				40
+conflict clauses (all/bin/unit) 	15/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			15/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	34.7333/0
+
+
+# solutions 
+4
+# END
+
+time: 0.003417s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_007.cnf
+variables (all/used/free): 	49/49/0
+clauses (all/long/binary/unit): 490/14/476/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	49/49/0
+clauses (all/long/binary/unit): 490/14/476/0
+Maximum cache size:	241076 MB
+
+
+
+variables (total / active / free)	49/49/0
+clauses (removed) 			490 (0)
+decisions 				112
+conflicts 				73
+conflict clauses (all/bin/unit) 	26/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			74/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	25.8378/0
+
+
+# solutions 
+40
+# END
+
+time: 0.003789s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_008.cnf
+variables (all/used/free): 	64/64/0
+clauses (all/long/binary/unit): 744/16/728/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	64/64/0
+clauses (all/long/binary/unit): 744/16/728/0
+Maximum cache size:	241075 MB
+
+
+
+variables (total / active / free)	64/64/0
+clauses (removed) 			744 (0)
+decisions 				321
+conflicts 				230
+conflict clauses (all/bin/unit) 	125/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			230/0
+cache miss rate 0%
+ avg. variable count (stores / hits) 	29.7304/0
+
+
+# solutions 
+92
+# END
+
+time: 0.012566s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_009.cnf
+variables (all/used/free): 	81/81/0
+clauses (all/long/binary/unit): 1074/18/1056/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	81/81/0
+clauses (all/long/binary/unit): 1074/18/1056/0
+Maximum cache size:	241075 MB
+
+
+
+variables (total / active / free)	81/81/0
+clauses (removed) 			1074 (0)
+decisions 				1182
+conflicts 				835
+conflict clauses (all/bin/unit) 	497/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			822/4
+cache miss rate 20%
+ avg. variable count (stores / hits) 	30.2652/4
+
+
+# solutions 
+352
+# END
+
+time: 0.015858s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_010.cnf
+variables (all/used/free): 	100/100/0
+clauses (all/long/binary/unit): 1490/20/1470/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	100/100/0
+clauses (all/long/binary/unit): 1490/20/1470/0
+Maximum cache size:	240998 MB
+
+
+
+variables (total / active / free)	100/100/0
+clauses (removed) 			1490 (0)
+decisions 				4131
+conflicts 				3413
+conflict clauses (all/bin/unit) 	2159/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 7MB	
+cache (stores / hits) 			2253/5
+cache miss rate 70.5882%
+ avg. variable count (stores / hits) 	33.5348/8.6
+
+
+# solutions 
+724
+# END
+
+time: 0.044968s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_011.cnf
+variables (all/used/free): 	121/121/0
+clauses (all/long/binary/unit): 2002/22/1980/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	121/121/0
+clauses (all/long/binary/unit): 2002/22/1980/0
+Maximum cache size:	240998 MB
+
+
+
+variables (total / active / free)	121/121/0
+clauses (removed) 			2002 (0)
+decisions 				15402
+conflicts 				12810
+conflict clauses (all/bin/unit) 	8359/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 8MB	
+cache (stores / hits) 			8351/98
+cache miss rate 58.1197%
+ avg. variable count (stores / hits) 	36.2557/7.43878
+
+
+# solutions 
+2680
+# END
+
+time: 0.229257s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_012.cnf
+variables (all/used/free): 	144/144/0
+clauses (all/long/binary/unit): 2620/24/2596/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	144/144/0
+clauses (all/long/binary/unit): 2620/24/2596/0
+Maximum cache size:	240998 MB
+
+
+
+variables (total / active / free)	144/144/0
+clauses (removed) 			2620 (0)
+decisions 				65036
+conflicts 				51387
+conflict clauses (all/bin/unit) 	12016/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 13MB	
+cache (stores / hits) 			39116/561
+cache miss rate 80.5141%
+ avg. variable count (stores / hits) 	37.8073/6.86809
+
+
+# solutions 
+14200
+# END
+
+time: 1.32319s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_013.cnf
+variables (all/used/free): 	169/169/0
+clauses (all/long/binary/unit): 3354/26/3328/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	169/169/0
+clauses (all/long/binary/unit): 3354/26/3328/0
+Maximum cache size:	240998 MB
+
+
+
+variables (total / active / free)	169/169/0
+clauses (removed) 			3354 (0)
+decisions 				278342
+conflicts 				210345
+conflict clauses (all/bin/unit) 	14640/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 34MB	
+cache (stores / hits) 			178097/5639
+cache miss rate 87.3661%
+ avg. variable count (stores / hits) 	38.6428/6.723
+
+
+# solutions 
+73712
+# END
+
+time: 8.08986s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_014.cnf
+variables (all/used/free): 	196/196/0
+clauses (all/long/binary/unit): 4214/28/4186/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	196/196/0
+clauses (all/long/binary/unit): 4214/28/4186/0
+Maximum cache size:	240998 MB
+
+
+
+variables (total / active / free)	196/196/0
+clauses (removed) 			4214 (0)
+decisions 				1344924
+conflicts 				1016007
+conflict clauses (all/bin/unit) 	17911/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 130MB	
+cache (stores / hits) 			857554/36731
+cache miss rate 94.6327%
+ avg. variable count (stores / hits) 	40.1732/6.50391
+
+
+# solutions 
+365596
+# END
+
+time: 43.7403s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_015.cnf
+variables (all/used/free): 	225/225/0
+clauses (all/long/binary/unit): 5210/30/5180/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	225/225/0
+clauses (all/long/binary/unit): 5210/30/5180/0
+Maximum cache size:	240997 MB
+
+
+time elapsed: 60.9668s
+conflict clauses (all / bin / unit) 	17045/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 197MB
+components (stored / hits) 		1358532/105661
+avg. variable count (stored / hits) 	40.5443/6.64408
+cache miss rate 90.5823%
+
+time elapsed: 121.967s
+conflict clauses (all / bin / unit) 	22056/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 345MB
+components (stored / hits) 		2515199/182187
+avg. variable count (stored / hits) 	40.5695/6.63568
+cache miss rate 93.3564%
+
+time elapsed: 182.967s
+conflict clauses (all / bin / unit) 	21898/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 474MB
+components (stored / hits) 		3529558/237973
+avg. variable count (stored / hits) 	40.6604/6.61446
+cache miss rate 94.5608%
+
+time elapsed: 243.967s
+conflict clauses (all / bin / unit) 	22077/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 595MB
+components (stored / hits) 		4490264/292616
+avg. variable count (stored / hits) 	40.6953/6.60928
+cache miss rate 95.0754%
+
+
+variables (total / active / free)	225/225/0
+clauses (removed) 			5210 (0)
+decisions 				6978847
+conflicts 				5010701
+conflict clauses (all/bin/unit) 	13784/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 627MB	
+cache (stores / hits) 			4743886/304695
+cache miss rate 95.2271%
+ avg. variable count (stores / hits) 	40.6859/6.60456
+
+
+# solutions 
+2279184
+# END
+
+time: 261.943s
+
+Solving /home/csirfan/software/Data/Queens_Input/QueensProblem_016.cnf
+variables (all/used/free): 	256/256/0
+clauses (all/long/binary/unit): 6352/32/6320/0
+
+Preprocessing .. DONE
+variables (all/used/free): 	256/256/0
+clauses (all/long/binary/unit): 6352/32/6320/0
+Maximum cache size:	240292 MB
+
+
+time elapsed: 60.4433s
+conflict clauses (all / bin / unit) 	20462/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 209MB
+components (stored / hits) 		1430022/178889
+avg. variable count (stored / hits) 	41.1838/6.83212
+cache miss rate 83.9951%
+
+time elapsed: 121.443s
+conflict clauses (all / bin / unit) 	13505/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 377MB
+components (stored / hits) 		2718046/320335
+avg. variable count (stored / hits) 	40.8077/6.81863
+cache miss rate 88.2206%
+
+time elapsed: 182.443s
+conflict clauses (all / bin / unit) 	15678/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 532MB
+components (stored / hits) 		3924597/448146
+avg. variable count (stored / hits) 	40.483/6.82656
+cache miss rate 89.6276%
+
+time elapsed: 243.443s
+conflict clauses (all / bin / unit) 	16536/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 677MB
+components (stored / hits) 		5053303/558695
+avg. variable count (stored / hits) 	40.3852/6.81891
+cache miss rate 90.4829%
+
+time elapsed: 304.443s
+conflict clauses (all / bin / unit) 	17586/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 817MB
+components (stored / hits) 		6137227/664739
+avg. variable count (stored / hits) 	40.4405/6.82375
+cache miss rate 90.9773%
+
+time elapsed: 365.443s
+conflict clauses (all / bin / unit) 	16621/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 953MB
+components (stored / hits) 		7196933/776814
+avg. variable count (stored / hits) 	40.4197/6.83428
+cache miss rate 91.1887%
+
+time elapsed: 426.443s
+conflict clauses (all / bin / unit) 	16887/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1077MB
+components (stored / hits) 		8162380/863204
+avg. variable count (stored / hits) 	40.39/6.83326
+cache miss rate 91.5351%
+
+time elapsed: 487.443s
+conflict clauses (all / bin / unit) 	18945/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1198MB
+components (stored / hits) 		9102067/938713
+avg. variable count (stored / hits) 	40.4212/6.82339
+cache miss rate 91.8892%
+
+time elapsed: 548.443s
+conflict clauses (all / bin / unit) 	15271/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1314MB
+components (stored / hits) 		9998045/1010885
+avg. variable count (stored / hits) 	40.5034/6.81539
+cache miss rate 92.1601%
+
+time elapsed: 609.443s
+conflict clauses (all / bin / unit) 	21947/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1429MB
+components (stored / hits) 		10886426/1084824
+avg. variable count (stored / hits) 	40.5371/6.81001
+cache miss rate 92.3569%
+
+time elapsed: 670.443s
+conflict clauses (all / bin / unit) 	18553/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1541MB
+components (stored / hits) 		11761124/1161021
+avg. variable count (stored / hits) 	40.5225/6.80833
+cache miss rate 92.4871%
+
+time elapsed: 731.443s
+conflict clauses (all / bin / unit) 	15477/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1649MB
+components (stored / hits) 		12597534/1225957
+avg. variable count (stored / hits) 	40.5553/6.80558
+cache miss rate 92.6617%
+
+time elapsed: 792.443s
+conflict clauses (all / bin / unit) 	27102/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1755MB
+components (stored / hits) 		13416158/1291282
+avg. variable count (stored / hits) 	40.6053/6.80269
+cache miss rate 92.8032%
+
+time elapsed: 853.443s
+conflict clauses (all / bin / unit) 	27295/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1858MB
+components (stored / hits) 		14217253/1356868
+avg. variable count (stored / hits) 	40.6363/6.80199
+cache miss rate 92.914%
+
+time elapsed: 914.443s
+conflict clauses (all / bin / unit) 	23622/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 1959MB
+components (stored / hits) 		15004562/1420189
+avg. variable count (stored / hits) 	40.6639/6.8031
+cache miss rate 93.0147%
+
+time elapsed: 975.443s
+conflict clauses (all / bin / unit) 	24227/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2057MB
+components (stored / hits) 		15757848/1477714
+avg. variable count (stored / hits) 	40.6909/6.80216
+cache miss rate 93.1252%
+
+time elapsed: 1036.44s
+conflict clauses (all / bin / unit) 	20492/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2156MB
+components (stored / hits) 		16521728/1543681
+avg. variable count (stored / hits) 	40.7299/6.80396
+cache miss rate 93.1782%
+
+time elapsed: 1097.44s
+conflict clauses (all / bin / unit) 	29699/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2251MB
+components (stored / hits) 		17263755/1601101
+avg. variable count (stored / hits) 	40.7267/6.80247
+cache miss rate 93.2599%
+
+time elapsed: 1158.44s
+conflict clauses (all / bin / unit) 	18950/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2345MB
+components (stored / hits) 		17991018/1661113
+avg. variable count (stored / hits) 	40.7398/6.80329
+cache miss rate 93.3134%
+
+time elapsed: 1219.44s
+conflict clauses (all / bin / unit) 	25094/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2436MB
+components (stored / hits) 		18699560/1713621
+avg. variable count (stored / hits) 	40.7505/6.80394
+cache miss rate 93.3927%
+
+time elapsed: 1280.44s
+conflict clauses (all / bin / unit) 	34458/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2526MB
+components (stored / hits) 		19396481/1770914
+avg. variable count (stored / hits) 	40.7921/6.80478
+cache miss rate 93.4399%
+
+time elapsed: 1341.44s
+conflict clauses (all / bin / unit) 	28740/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2615MB
+components (stored / hits) 		20085971/1823617
+avg. variable count (stored / hits) 	40.8073/6.80647
+cache miss rate 93.4999%
+
+time elapsed: 1402.44s
+conflict clauses (all / bin / unit) 	20593/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2705MB
+components (stored / hits) 		20780691/1883416
+avg. variable count (stored / hits) 	40.8299/6.80832
+cache miss rate 93.5262%
+
+time elapsed: 1463.44s
+conflict clauses (all / bin / unit) 	18522/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2791MB
+components (stored / hits) 		21446769/1936019
+avg. variable count (stored / hits) 	40.8243/6.80865
+cache miss rate 93.5664%
+
+time elapsed: 1524.44s
+conflict clauses (all / bin / unit) 	29309/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2876MB
+components (stored / hits) 		22108191/1989134
+avg. variable count (stored / hits) 	40.8298/6.80968
+cache miss rate 93.6066%
+
+time elapsed: 1585.44s
+conflict clauses (all / bin / unit) 	24648/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 2954MB
+components (stored / hits) 		22714360/2028368
+avg. variable count (stored / hits) 	40.8362/6.80804
+cache miss rate 93.6834%
+
+time elapsed: 1646.44s
+conflict clauses (all / bin / unit) 	24863/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3034MB
+components (stored / hits) 		23338611/2073514
+avg. variable count (stored / hits) 	40.8604/6.80716
+cache miss rate 93.7362%
+
+time elapsed: 1707.44s
+conflict clauses (all / bin / unit) 	36265/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3112MB
+components (stored / hits) 		23945280/2113041
+avg. variable count (stored / hits) 	40.8586/6.8061
+cache miss rate 93.8007%
+
+time elapsed: 1768.44s
+conflict clauses (all / bin / unit) 	36486/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3189MB
+components (stored / hits) 		24538530/2153689
+avg. variable count (stored / hits) 	40.8658/6.80547
+cache miss rate 93.8529%
+
+time elapsed: 1829.44s
+conflict clauses (all / bin / unit) 	21487/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3265MB
+components (stored / hits) 		25127948/2193700
+avg. variable count (stored / hits) 	40.8797/6.80396
+cache miss rate 93.9048%
+
+time elapsed: 1890.44s
+conflict clauses (all / bin / unit) 	36860/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3340MB
+components (stored / hits) 		25710882/2232647
+avg. variable count (stored / hits) 	40.877/6.80383
+cache miss rate 93.9552%
+
+time elapsed: 1951.44s
+conflict clauses (all / bin / unit) 	27743/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3415MB
+components (stored / hits) 		26296211/2274861
+avg. variable count (stored / hits) 	40.8987/6.80407
+cache miss rate 93.9921%
+
+time elapsed: 2012.44s
+conflict clauses (all / bin / unit) 	40321/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3490MB
+components (stored / hits) 		26875490/2313997
+avg. variable count (stored / hits) 	40.8991/6.80395
+cache miss rate 94.0338%
+
+time elapsed: 2073.44s
+conflict clauses (all / bin / unit) 	34361/0/0
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3562MB
+components (stored / hits) 		27438759/2353795
+avg. variable count (stored / hits) 	40.9036/6.80419
+cache miss rate 94.0688%
+
+
+variables (total / active / free)	256/256/0
+clauses (removed) 			6352 (0)
+decisions 				38501967
+conflicts 				26192841
+conflict clauses (all/bin/unit) 	32878/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 0%
+cache size 3586MB	
+cache (stores / hits) 			27617938/2368214
+cache miss rate 94.075%
+ avg. variable count (stores / hits) 	40.9222/6.80376
+
+
+# solutions 
+14772512
+# END
+
+time: 2095.32s
+

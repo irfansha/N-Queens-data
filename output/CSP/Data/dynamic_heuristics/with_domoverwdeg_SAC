@@ -1,0 +1,408 @@
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem1.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem1.minion 
+Parsing Time: 0.000429
+Setup Time: 0.000088
+First Node Time: 0.000035
+Initial Propagate: 0.000044
+SAC Removed 0 literals
+First node time: 0.000049
+Solve Time: 0.000019
+Total Time: 0.000626
+Total System Time: 0.000000
+Total Wall Time: 0.000921
+Maximum RSS (kB): 9812
+Total Nodes: 1
+Problem solvable?: yes
+Solutions Found: 1
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem2.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem2.minion 
+Parsing Time: 0.000428
+Setup Time: 0.000096
+First Node Time: 0.000039
+Initial Propagate: 0.000048
+SAC Removed 6 literals
+First node time: 0.000058
+Solve Time: 0.000020
+Total Time: 0.000647
+Total System Time: 0.000000
+Total Wall Time: 0.000698
+Maximum RSS (kB): 9744
+Total Nodes: 0
+Problem solvable?: no
+Solutions Found: 0
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem3.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem3.minion 
+Parsing Time: 0.000154
+Setup Time: 0.000040
+First Node Time: 0.000018
+Initial Propagate: 0.000021
+SAC Removed 19 literals
+First node time: 0.000024
+Solve Time: 0.000005
+Total Time: 0.000243
+Total System Time: 0.000000
+Total Wall Time: 0.000474
+Maximum RSS (kB): 9872
+Total Nodes: 0
+Problem solvable?: no
+Solutions Found: 0
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem4.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem4.minion 
+Parsing Time: 0.000168
+Setup Time: 0.000047
+First Node Time: 0.000020
+Initial Propagate: 0.000024
+SAC Removed 24 literals
+First node time: 0.000110
+Solve Time: 0.000011
+Total Time: 0.000359
+Total System Time: 0.000000
+Total Wall Time: 0.000415
+Maximum RSS (kB): 9500
+Total Nodes: 3
+Problem solvable?: yes
+Solutions Found: 2
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem5.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem5.minion 
+Parsing Time: 0.000242
+Setup Time: 0.000071
+First Node Time: 0.000029
+Initial Propagate: 0.000034
+SAC Removed 0 literals
+First node time: 0.000159
+Solve Time: 0.000074
+Total Time: 0.000579
+Total System Time: 0.000000
+Total Wall Time: 0.000810
+Maximum RSS (kB): 9588
+Total Nodes: 23
+Problem solvable?: yes
+Solutions Found: 10
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem6.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem6.minion 
+Parsing Time: 0.000178
+Setup Time: 0.000057
+First Node Time: 0.000024
+Initial Propagate: 0.000028
+SAC Removed 0 literals
+First node time: 0.000140
+Solve Time: 0.000107
+Total Time: 0.000509
+Total System Time: 0.000000
+Total Wall Time: 0.000562
+Maximum RSS (kB): 9556
+Total Nodes: 41
+Problem solvable?: yes
+Solutions Found: 4
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem7.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem7.minion 
+Parsing Time: 0.000000
+Setup Time: 0.000000
+First Node Time: 0.000000
+Initial Propagate: 0.000000
+SAC Removed 0 literals
+First node time: 0.000000
+Solve Time: 0.000000
+Total Time: 0.000000
+Total System Time: 0.001024
+Total Wall Time: 0.001256
+Maximum RSS (kB): 9820
+Total Nodes: 145
+Problem solvable?: yes
+Solutions Found: 40
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem8.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem8.minion 
+Parsing Time: 0.000000
+Setup Time: 0.000000
+First Node Time: 0.000000
+Initial Propagate: 0.000000
+SAC Removed 0 literals
+First node time: 0.000000
+Solve Time: 0.000000
+Total Time: 0.000000
+Total System Time: 0.002254
+Total Wall Time: 0.002306
+Maximum RSS (kB): 9592
+Total Nodes: 466
+Problem solvable?: yes
+Solutions Found: 92
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem9.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem9.minion 
+Parsing Time: 0.000000
+Setup Time: 0.000000
+First Node Time: 0.000000
+Initial Propagate: 0.000000
+SAC Removed 0 literals
+First node time: 0.000000
+Solve Time: 0.006441
+Total Time: 0.006440
+Total System Time: 0.001481
+Total Wall Time: 0.008157
+Maximum RSS (kB): 9840
+Total Nodes: 1971
+Problem solvable?: yes
+Solutions Found: 352
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:53 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem10.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem10.minion 
+Parsing Time: 0.000257
+Setup Time: 0.000078
+First Node Time: 0.000107
+Initial Propagate: 0.000113
+SAC Removed 0 literals
+First node time: 0.000452
+Solve Time: 0.025463
+Total Time: 0.026362
+Total System Time: 0.000000
+Total Wall Time: 0.026414
+Maximum RSS (kB): 9568
+Total Nodes: 7258
+Problem solvable?: yes
+Solutions Found: 724
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:54 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem11.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem11.minion 
+Parsing Time: 0.000206
+Setup Time: 0.000081
+First Node Time: 0.000038
+Initial Propagate: 0.000042
+SAC Removed 0 literals
+First node time: 0.000469
+Solve Time: 0.113622
+Total Time: 0.114419
+Total System Time: 0.000000
+Total Wall Time: 0.114470
+Maximum RSS (kB): 9652
+Total Nodes: 31835
+Problem solvable?: yes
+Solutions Found: 2680
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:54 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem12.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem12.minion 
+Parsing Time: 0.000000
+Setup Time: 0.000000
+First Node Time: -0.000000
+Initial Propagate: 0.000000
+SAC Removed 0 literals
+First node time: 0.000000
+Solve Time: 0.600980
+Total Time: 0.600979
+Total System Time: 0.003966
+Total Wall Time: 0.605014
+Maximum RSS (kB): 9652
+Total Nodes: 160675
+Problem solvable?: yes
+Solutions Found: 14200
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:55:54 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem13.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem13.minion 
+Parsing Time: 0.000210
+Setup Time: 0.000078
+First Node Time: 0.000039
+Initial Propagate: 0.000043
+SAC Removed 0 literals
+First node time: 0.000642
+Solve Time: 3.219940
+Total Time: 3.220909
+Total System Time: 0.000000
+Total Wall Time: 5.653125
+Maximum RSS (kB): 9492
+Total Nodes: 855798
+Problem solvable?: yes
+Solutions Found: 73712
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:57:11 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem14.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem14.minion 
+Parsing Time: 0.000000
+Setup Time: 0.000000
+First Node Time: 0.000000
+Initial Propagate: 0.000000
+SAC Removed 0 literals
+First node time: 0.002431
+Solve Time: 19.286879
+Total Time: 19.289308
+Total System Time: 0.001089
+Total Wall Time: 19.290844
+Maximum RSS (kB): 9652
+Total Nodes: 4806991
+Problem solvable?: yes
+Solutions Found: 365596
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:57:31 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem15.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem15.minion 
+Parsing Time: 0.000275
+Setup Time: 0.000092
+First Node Time: 0.000046
+Initial Propagate: 0.000050
+SAC Removed 0 literals
+First node time: 0.000878
+Solve Time: 123.308854
+Total Time: 123.310147
+Total System Time: 0.000000
+Total Wall Time: 123.311411
+Maximum RSS (kB): 9848
+Total Nodes: 29379257
+Problem solvable?: yes
+Solutions Found: 2279184
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 16:59:34 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem16.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem16.minion 
+Parsing Time: 0.000242
+Setup Time: 0.000097
+First Node Time: 0.000050
+Initial Propagate: 0.000054
+SAC Removed 0 literals
+First node time: 0.001023
+Solve Time: 842.363197
+Total Time: 842.364612
+Total System Time: 0.000000
+Total Wall Time: 842.366372
+Maximum RSS (kB): 10744
+Total Nodes: 190917389
+Problem solvable?: yes
+Solutions Found: 14772512
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Thu Apr 18 17:13:36 2019
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../../generators/nqueens-JFP/Queens_input/Queens_problem17.minion
+# Command line: ../minion-wdeg -findallsols -noprintsols -varorder domoverwdeg -preprocess SAC ../../generators/nqueens-JFP/Queens_input/Queens_problem17.minion 
+Parsing Time: 0.000255
+Setup Time: 0.000100
+First Node Time: 0.000053
+Initial Propagate: 0.000057
+SAC Removed 0 literals
+First node time: 0.001178
+Solve Time: 6026.478945
+Total Time: 6026.480533
+Total System Time: 0.000000
+Total Wall Time: 6026.494671
+Maximum RSS (kB): 10840
+Total Nodes: 1309206559
+Problem solvable?: yes
+Solutions Found: 95815104

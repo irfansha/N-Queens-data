@@ -1,0 +1,22 @@
+# Minion version 1.8
+# arguments used "-findallsols -noprintsols -varorder ldf-random"
+# raw data is available here:
+# http://cs.swansea.ac.uk/~csirfansha/data_files/Experimental_results/CSP/minion/Data/
+# run on csverify
+N t nds sol
+1 0.000566 1 1
+2 0.000572 1 0
+3 0.000628 2 0
+4 0.000398 7 2
+5 0.000343 33 10
+6 0.000598 98 4
+7 0.001004 361 40
+8 0.004181 1474 92
+9 0.015358 6838 352
+10 0.075220 34135 724
+11 0.316009 156631 2680
+12 2.368334 1134860 14200
+13 12.300176 5639630 73712
+14 100.944809 44318033 365596
+15 699.453468 301680403 2279184
+16 5620.052926 2295143579 14772512
